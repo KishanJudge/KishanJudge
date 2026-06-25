@@ -12,3 +12,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=dark)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KishanJudge.KishanJudge)
