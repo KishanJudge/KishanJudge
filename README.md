@@ -10,4 +10,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KishanJudge&theme=dark)
 
+![Top Langs](https://github-readme-stats-blue-alpha-49.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=dark)
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KishanJudge.KishanJudge)
