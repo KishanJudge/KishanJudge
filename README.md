@@ -8,7 +8,9 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KishanJudge&theme=dark)
 
-![Top Langs](https://github-readme-stats-blue-alpha-49.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=KishanJudge&theme=dark#gh-dark-mode-only)
+![GitHub Streak](https://streak-stats.demolab.com?user=KishanJudge&theme=default#gh-light-mode-only)
 
+![Top Langs](https://langstats-rdyva4d4t-thecrimsonmask.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=dark#gh-dark-mode-only)
+![Top Langs](https://langstats-rdyva4d4t-thecrimsonmask.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=default#gh-light-mode-only)
