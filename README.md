@@ -15,10 +15,11 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=KishanJudge&theme=default">
 </picture>
 
-
+<br>
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://langstats-rdyva4d4t-thecrimsonmask.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://langstats-rdyva4d4t-thecrimsonmask.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=default">
-  <img alt="Top Languages" src="https://langstats-rdyva4d4t-thecrimsonmask.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://langstats.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://langstats.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=default">
+  <img alt="Top Languages" src="https://langstats.vercel.app/api/top-langs/?username=KishanJudge&layout=compact&theme=default">
 </picture>
